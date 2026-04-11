@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Fayetteville, North Carolina, a growing city of 208k+. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Fayetteville, North Carolina, US",
+  "export_job_id": "46e7dbe1-97e2-46c5-99f4-4bde3e9c3ea4",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 182597,
+  "location_name": "Fayetteville",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-fayetteville-north-carolina-us-sample-182597",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/182597/beamstation_182597_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 74,
+  "sample_sha256": "627cf2c6f717e045fa51470479ab402d3c94cf7c41bc77aa772c4b3ec1ef4261",
+  "sample_size_bytes": 288592,
+  "total_records": 740,
+  "updated_at": "2026-04-09T11:43:08.298707+00:00"
+}
