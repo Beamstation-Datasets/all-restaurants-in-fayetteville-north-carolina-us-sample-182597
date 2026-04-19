@@ -1,6 +1,6 @@
 # All Restaurants in Fayetteville, North Carolina, US
 
-> Free BeamStation sample export with 74 rows and masked direct-contact fields.
+> Free BeamStation sample export with 73 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `182597` |
 | Location | Fayetteville |
 | Category | Restaurants |
-| Full dataset size | 740 records |
-| Free sample size | 74 records (10.0%) |
-| Last export | 2026-04-09T11:43:08.298707+00:00 |
+| Full dataset size | 733 records |
+| Free sample size | 73 records (9.96%) |
+| Last export | 2026-04-16T11:46:33.182931+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fayetteville-north-carolina-us-sample-182597/releases/download/sample-latest/beamstation_182597_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
